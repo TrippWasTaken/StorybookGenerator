@@ -1,0 +1,7 @@
+export const FILE_INFO = "fileInfo"
+export const OVERWRITE = "overwrite"
+export const CREATE = "create"
+export const UPDATE = "update"
+export const ON_INFO = "onInfo"
+export const ON_ERROR = "onError"
+export const MOUNT_CHECK = "mountCheck"
