@@ -39,7 +39,7 @@ Right now there is no settings that can be customized
 * simply copy the css and add it into the `vscode.css` file, should you need anymore css follow standard svelte styling via the `style` tag in your components.
 
 
-# TDOD/IDEAS
+# Todo
 
 * Automatic prettier formatting following projects `.prettierc` file.
 * Flexible category sorting for the actual prop sorting.
