@@ -9,6 +9,9 @@
 
 ![スクリーンショット 2025-02-16 230622](https://github.com/user-attachments/assets/3b85f47e-e0c3-49f4-85e2-d35e87897366)
 
+![image](https://github.com/user-attachments/assets/6bf4fd09-078c-40e1-a744-c8ad16ec89dd)
+
+
 ## Extension Settings
 
 Right now there is no settings that can be customized
