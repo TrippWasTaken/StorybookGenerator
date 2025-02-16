@@ -1,9 +1,13 @@
 # Storybook generator
 
-* For creating a basic story to have correct prop categorization in storybook controls.
+* For creating a basic story with correct prop categorization in storybook controls something that the "autodocs" tag does not do right now.
 * Props can be updated for existing files and compared.
 * New stories can be created or old story files can be completely overwritten if someone wishes to start over on docs.
 * The extension will alert of any prop mismatch as you edit a component or story.
+
+![スクリーンショット 2025-02-16 230502](https://github.com/user-attachments/assets/d50c230e-5f51-431f-919f-6774b77a8d09)
+
+![スクリーンショット 2025-02-16 230622](https://github.com/user-attachments/assets/3b85f47e-e0c3-49f4-85e2-d35e87897366)
 
 ## Extension Settings
 
