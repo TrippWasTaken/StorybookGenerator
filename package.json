@@ -1,7 +1,7 @@
 {
 	"name": "sbg",
-	"displayName": "oberon-storybook-generator-react",
-	"description": "generate base storybook items for react components with automatic argsTable sorting and categorization for Oberon UI elements",
+	"displayName": "storybook-generator-react",
+	"description": "generate base storybook items for react components with automatic argsTable categorization for UI elements",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.96.0"
@@ -21,8 +21,8 @@
 			"activitybar": [
 				{
 					"id": "sbgSidebar",
-					"title": "Oberon",
-					"icon": "./oberon.svg"
+					"title": "Storybook Generator",
+					"icon": "./storybook.svg"
 				}
 			]
 		},
